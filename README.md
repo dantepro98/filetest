@@ -34,6 +34,8 @@ y completas funcionalidades de navegación.
 Things pensada para comunicaciones de baja velocidad que permite reducir los
 precios y el consumo de energía para los dispositivos conectados.
 
+[Arduino](https://www.ingmecafenix.com/electronica/arduino/): es una plataforma de prototipos electrónica de código abierto (open-source) basada en una sencilla placa con entradas y salidas, en un entorno de desarrollo que está basado en el lenguaje de programación Processing. Es un dispositivo que conecta el mundo físico con el mundo virtual, o el mundo analógico con el digital.
+
 Se envía el valor de temperatura a Sigfox cada vez que la placa detecta un 
 movimiento. Para visualizar los datos enviados, se verifica el monitor serial 
 del Arduino IDE. También puede verificar los mensajes a través del [backend de 
@@ -47,16 +49,12 @@ de project HUB.
 Python tiene varios controladores de base de datos para PostgreSQL. Cubre las 
 actividades más comunes para interactuar con PostgreSQL en la aplicación Pycharm Profesional:
 
-* [Conexión al servidor de base de datos PostgreSQL](https://www.jetbrains.com/help/pycharm/connecting-to-a-database.html#connect-to-postgresql-database "conexión a la base de datos postgresql ") : muestra cómo conectarse al servidor de base de datos PostgreSQL desde Python.
-* Creación de nuevas tablas de PostgreSQL en Python : le proporciona los pasos para crear nuevas tablas en PostgreSQL desde Python.
-* Insertar datos en la tabla de PostgreSQL en Python : explique cómo insertar datos en una tabla de base de datos de PostgreSQL en Python.
-* Actualización de datos en la tabla de PostgreSQL en Python : aprenda varias formas de actualizar datos en la tabla de PostgreSQL.
-* Transacción : muestra cómo realizar transacciones en Python.
-* Consulta de datos de las tablas de PostgreSQL : lo guía a través de los pasos para consultar los datos de las tablas de PostgreSQL en una aplicación de Python.
-* Llamar a una función de PostgreSQL en Python : muestra paso a paso cómo llamar a una función de PostgreSQL en Python.
-* Llamar a un procedimiento almacenado de PostgreSQL en Python : guía sobre cómo llamar a un procedimiento almacenado desde una aplicación de Python.
-* Manejo de datos BLOB de PostgreSQL en Python : le brinda un ejemplo de cómo insertar y seleccionar los datos BLOB de PostgreSQL en una aplicación Python.
-* Eliminación de datos de tablas de PostgreSQL en Python : muestra cómo eliminar datos en una tabla en Python.
+* [Conexión al servidor de base de datos PostgreSQL](https://www.jetbrains.com/help/pycharm/connecting-to-a-database.html#connect-to-postgresql-database "conexión a la base de datos postgresql ") : muestra cómo conectarse al servidor de base de datos PostgreSQL desde PyCharm.
+* Actualización de datos en la tabla de PostgreSQL en Python.
+* Consulta de datos de las tablas de PostgreSQL.
+* Llamar a una función de PostgreSQL en Python.
+* Llamar a un procedimiento almacenado de PostgreSQL en Python.
+* Eliminación de datos de tablas de PostgreSQL en Python.
 
 ## Aplicacion Web VERSION 1.0 
 
