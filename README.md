@@ -46,19 +46,20 @@ Panel de control de la version de dashborad.
 ## Instalacion
 
 #### PIPENV
+
 Se verifica que se tenga instalado en Python en este caso es la versión 3.8.2
 
-El comando para verificar la version de `python`:
++ El comando para verificar la version de `python`:
 
     >python -V
 
-Se instala la herramienta de gestion de paquetes, con el comando:
++ Se instala la herramienta de gestion de paquetes, con el comando:
 
     >pip install pipenv
     o
     >python -m pip install pipenv
     
-Verificamos la instalacion del paquete pipenv con el siquiente comando:
++ Verificamos la instalacion del paquete pipenv con el siquiente comando:
 
     >pipenv
 
@@ -66,11 +67,11 @@ Creamos el entorno de desarrollo con el comando:
    
     >pipenv shell 
 
-Se instalacion las dependencias con el comando:
++ Se instalacion las dependencias con el comando:
 
     >pipenv install
 
-Verificamos que las dependencias esten instaladas con el comando:
++ Verificamos que las dependencias esten instaladas con el comando:
 
     >pipenv graph
 
