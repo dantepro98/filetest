@@ -56,7 +56,7 @@ actividades más comunes para interactuar con PostgreSQL en la aplicación Pycha
 * Llamar a un procedimiento almacenado de PostgreSQL en Python.
 * Eliminación de datos de tablas de PostgreSQL en Python.
 
-## Aplicacion Web VERSION 1.0 :bar_chart:
+## Aplicación Web VERSION 1.0 :bar_chart:
 
 Entrono grafico de darrollo web.
 
