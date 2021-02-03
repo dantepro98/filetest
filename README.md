@@ -1,7 +1,7 @@
 Cabina Covid-19
 ===============
 
-<img align="right" height="156" src="https://1.bp.blogspot.com/-CNRT-KeE5ZU/YBhWttxTgrI/AAAAAAAAAvQ/npX4KbEQdfYiu4kwWX09APOZad9YTTQpQCLcBGAsYHQ/w320-h118/covidlogo.png"/>
+<img align="right" height="125" src="https://1.bp.blogspot.com/-CNRT-KeE5ZU/YBhWttxTgrI/AAAAAAAAAvQ/npX4KbEQdfYiu4kwWX09APOZad9YTTQpQCLcBGAsYHQ/w320-h118/covidlogo.png"/>
 
 Una herramienta de inteligencia artificial para prevenir la propagación 
 del coronavirus (COVID-19) mediante módulo de temperatura Arduino. Una 
@@ -23,10 +23,12 @@ REST framework.
 ## Pycharm Profesional
 
 PyCharm ofrece una gran compatibilidad con marcos de trabajo de desarrollo web 
-moderno como *Django*, proporciona una finalización del código inteligente, 
+moderno como [Django](https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-django-project.html#database-configure), proporciona una finalización del código inteligente, 
 inspecciones del código, indicación de errores sobre la marcha y arreglos 
 rápidos, así como refactorización de código automática y completas funcionalidades 
 de navegación.
+
+
 
 ## Sigfox & Arduino
 
