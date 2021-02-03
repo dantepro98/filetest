@@ -1,4 +1,4 @@
-Cabina  de desinfeccion Covid-19
+Cabina  de desinfección Covid-19
 ===============
 
 <img align="right" height="100" src="https://1.bp.blogspot.com/-CNRT-KeE5ZU/YBhWttxTgrI/AAAAAAAAAvQ/npX4KbEQdfYiu4kwWX09APOZad9YTTQpQCLcBGAsYHQ/w320-h118/covidlogo.png"/>
