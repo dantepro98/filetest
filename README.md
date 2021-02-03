@@ -69,4 +69,4 @@ Panel de control de la version de dashborad.
 ## Colaboradores
 
 Estos datos han sido recopilados, agregados y documentados por Christian Guaman, 
-Waltes Bustamante, Pedro Morocho, Luis Maurizaca, John Rodas, Erick Matailo, Harman Cabrera.
+Walter Bustamante, Pedro Morocho, Luis Maurizaca, John Rodas, Erick Matailo, Harman Cabrera.
