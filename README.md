@@ -37,7 +37,7 @@ de project HUB.
 
 Entrono grafico de darrollo web.
 
-![Imagen]( docs/markdown/img/web.gif "DEMO WEB")
+![Imagen]( https://github.com/fionalayer/filetest/blob/main/web.gif "DEMO WEB")
 
 Panel de control de la version de dashborad.
 
