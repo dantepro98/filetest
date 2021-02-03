@@ -28,7 +28,7 @@ proporciona una finalización del código inteligente, inspecciones del código,
 de errores sobre la marcha y arreglos rápidos, así como refactorización de código automática
 y completas funcionalidades de navegación.
 
-## Sigfox & Arduino
+## Sigfox & Arduino :satellite:
 
 [Sigfox](https://www.sigfox.com/en "Sigfox Web"): es una solución de conectividad celular mundial para el Internet of 
 Things pensada para comunicaciones de baja velocidad que permite reducir los
@@ -44,7 +44,7 @@ Sigfox](https://www.aprendiendoarduino.com/2018/03/05/arduino-y-sigfox/ "Backend
 Mira mas informacion sobre la [guia de conexion](https://create.arduino.cc/projecthub/55019/connect-your-thinxtra-xkit-using-sigfox-c8b2ba)
 de project HUB.
 
-## PostgreSQL
+## PostgreSQL :cloud:
 
 Python tiene varios controladores de base de datos para PostgreSQL. Cubre las 
 actividades más comunes para interactuar con PostgreSQL en la aplicación Pycharm Profesional:
@@ -56,7 +56,7 @@ actividades más comunes para interactuar con PostgreSQL en la aplicación Pycha
 * Llamar a un procedimiento almacenado de PostgreSQL en Python.
 * Eliminación de datos de tablas de PostgreSQL en Python.
 
-## Aplicacion Web VERSION 1.0 
+## Aplicacion Web VERSION 1.0 :bar_chart:
 
 Entrono grafico de darrollo web.
 
