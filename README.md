@@ -41,7 +41,7 @@ Entrono grafico de darrollo web.
 
 Panel de control de la version de dashborad.
 
-![Dashboard]( docs/markdown/img/dash.gif "DEMO WEB")
+![Dashboard]( https://github.com/fionalayer/filetest/blob/main/dash.gif "DEMO WEB")
 
 ## Instalacion
 
