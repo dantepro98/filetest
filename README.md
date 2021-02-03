@@ -6,7 +6,8 @@ Cabina Covid-19
 Una herramienta de inteligencia artificial para prevenir la propagación 
 del coronavirus (COVID-19) mediante módulo de temperatura Arduino. Una 
 herramienta de inteligencia artificial analizadora de información para 
-mostrar los datos en graficas. 
+mostrar los datos en graficas. Una aplicación de IoT que toma y envía 
+lecturas de temperatura a través de Sigfox, siempre que se detecta movimiento.
 
 ##### Requisito previo:
 
@@ -28,9 +29,6 @@ rápidos, así como refactorización de código automática y completas funciona
 de navegación.
 
 ## Sigfox & Arduino
-
-Una aplicación de IoT que toma y envía lecturas de temperatura a través de 
-Sigfox, siempre que se detecta movimiento.
 
 Se envía el valor de temperatura a Sigfox cada vez que la placa detecta un 
 movimiento. Para visualizar los datos enviados, se verifica el monitor serial 
