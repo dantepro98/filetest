@@ -20,7 +20,7 @@ REST framework.
 * Arduino IDE, VS Code, Pycharm  Profesional, Postgress.
 * Paquetes de Python como se indica en `requirements.txt`
 
-## Pycharm Profesional
+## Pycharm Profesional :snake:
 
 En este proyecto se utilizo PyCharm ya que ofrece una gran compatibilidad con marcos de trabajo de desarrollo web moderno 
 con [Django](https://www.jetbrains.com/help/pycharm/django-support7.html#django-support "soporte de Django en PyCharm"), 
