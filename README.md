@@ -9,7 +9,7 @@ herramienta de inteligencia artificial analizadora de información para
 mostrar los datos en graficas. Una aplicación de IoT que toma y envía 
 lecturas de temperatura a través de Sigfox, siempre que se detecta movimiento.
 
-##### Requisito previo:
+##### :pencil: Requisito previo:
 
 * Python básico
 * Conocimientos básicos de creación de entornos virtuales python y Django 
