@@ -30,10 +30,14 @@ y completas funcionalidades de navegación.
 
 ## Sigfox & Arduino
 
+[Sigfox](https://www.sigfox.com/en "Sigfox Web"): es una solución de conectividad celular mundial para el Internet of 
+Things pensada para comunicaciones de baja velocidad que permite reducir los
+precios y el consumo de energía para los dispositivos conectados.
+
 Se envía el valor de temperatura a Sigfox cada vez que la placa detecta un 
 movimiento. Para visualizar los datos enviados, se verifica el monitor serial 
-del Arduino IDE. También puede verificar los mensajes a través del backend de 
-Sigfox seleccionando la ID del dispositivo de la lista de dispositivos.
+del Arduino IDE. También puede verificar los mensajes a través del [backend de 
+Sigfox](https://www.aprendiendoarduino.com/2018/03/05/arduino-y-sigfox/ "Backend de Sigfox") seleccionando la ID del dispositivo de la lista de dispositivos.
 
 Mira mas informacion sobre la [guia de conexion](https://create.arduino.cc/projecthub/55019/connect-your-thinxtra-xkit-using-sigfox-c8b2ba)
 de project HUB.
