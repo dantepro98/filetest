@@ -63,7 +63,7 @@ Se verifica que se tenga instalado en Python en este caso es la versión 3.8.2
 
     >pipenv
 
-Creamos el entorno de desarrollo con el comando:
++ Creamos el entorno de desarrollo con el comando:
    
     >pipenv shell 
 
