@@ -33,7 +33,7 @@ Sigfox seleccionando la ID del dispositivo de la lista de dispositivos.
 Mira mas informacion sobre la [guia de conexion](https://create.arduino.cc/projecthub/55019/connect-your-thinxtra-xkit-using-sigfox-c8b2ba)
 de project HUB.
 
-## Aplicaion Web VERSION 1.0 
+## Aplicacion Web VERSION 1.0 
 
 Entrono grafico de darrollo web.
 
