@@ -1,4 +1,4 @@
-Cabina Covid 19
+Cabina Covid-19
 ===============
 
 <img align="right" height="156" src="https://1.bp.blogspot.com/-CNRT-KeE5ZU/YBhWttxTgrI/AAAAAAAAAvQ/npX4KbEQdfYiu4kwWX09APOZad9YTTQpQCLcBGAsYHQ/w320-h118/covidlogo.png"/>
