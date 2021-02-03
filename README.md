@@ -1,4 +1,4 @@
-Cabina Covid-19
+Cabina  de desinfeccion Covid-19
 ===============
 
 <img align="right" height="100" src="https://1.bp.blogspot.com/-CNRT-KeE5ZU/YBhWttxTgrI/AAAAAAAAAvQ/npX4KbEQdfYiu4kwWX09APOZad9YTTQpQCLcBGAsYHQ/w320-h118/covidlogo.png"/>
@@ -37,6 +37,22 @@ Sigfox seleccionando la ID del dispositivo de la lista de dispositivos.
 
 Mira mas informacion sobre la [guia de conexion](https://create.arduino.cc/projecthub/55019/connect-your-thinxtra-xkit-using-sigfox-c8b2ba)
 de project HUB.
+
+## PostgreSQL
+
+Python tiene varios controladores de base de datos para PostgreSQL. Cubre las 
+actividades más comunes para interactuar con PostgreSQL en la aplicación Pycharm Profesional:
+
+* [Conexión al servidor de base de datos PostgreSQL](https://www.jetbrains.com/help/pycharm/connecting-to-a-database.html#connect-to-postgresql-database "conexión a la base de datos postgresql ") : muestra cómo conectarse al servidor de base de datos PostgreSQL desde Python.
+* Creación de nuevas tablas de PostgreSQL en Python : le proporciona los pasos para crear nuevas tablas en PostgreSQL desde Python.
+* Insertar datos en la tabla de PostgreSQL en Python : explique cómo insertar datos en una tabla de base de datos de PostgreSQL en Python.
+* Actualización de datos en la tabla de PostgreSQL en Python : aprenda varias formas de actualizar datos en la tabla de PostgreSQL.
+* Transacción : muestra cómo realizar transacciones en Python.
+* Consulta de datos de las tablas de PostgreSQL : lo guía a través de los pasos para consultar los datos de las tablas de PostgreSQL en una aplicación de Python.
+* Llamar a una función de PostgreSQL en Python : muestra paso a paso cómo llamar a una función de PostgreSQL en Python.
+* Llamar a un procedimiento almacenado de PostgreSQL en Python : guía sobre cómo llamar a un procedimiento almacenado desde una aplicación de Python.
+* Manejo de datos BLOB de PostgreSQL en Python : le brinda un ejemplo de cómo insertar y seleccionar los datos BLOB de PostgreSQL en una aplicación Python.
+* Eliminación de datos de tablas de PostgreSQL en Python : muestra cómo eliminar datos en una tabla en Python.
 
 ## Aplicacion Web VERSION 1.0 
 
