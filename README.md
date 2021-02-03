@@ -15,20 +15,18 @@ lecturas de temperatura a través de Sigfox, siempre que se detecta movimiento.
 * Conocimientos básicos de creación de entornos virtuales python y Django 
 REST framework.
 
-##### Herramientas:
+##### :computer: Herramientas:
 
 * Arduino IDE, VS Code, Pycharm  Profesional, Postgress.
 * Paquetes de Python como se indica en `requirements.txt`
 
 ## Pycharm Profesional
 
-PyCharm ofrece una gran compatibilidad con marcos de trabajo de desarrollo web moderno 
-como [Django](https://www.jetbrains.com/help/pycharm/django-support7.html#django-support "soporte de Django en PyCharm"), 
+En este proyecto se utilizo PyCharm ya que ofrece una gran compatibilidad con marcos de trabajo de desarrollo web moderno 
+con [Django](https://www.jetbrains.com/help/pycharm/django-support7.html#django-support "soporte de Django en PyCharm"), 
 proporciona una finalización del código inteligente, inspecciones del código, indicación 
 de errores sobre la marcha y arreglos rápidos, así como refactorización de código automática
 y completas funcionalidades de navegación.
-
-
 
 ## Sigfox & Arduino
 
