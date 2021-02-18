@@ -40,3 +40,7 @@ Rest Framework para la construcción del API Rest, para la base de datos se util
 Estos datos han sido recopilados, agregados y documentados por Christian Guaman, 
 Walter Bustamante, Pedro Morocho, Luis Maurizaca, John Rodas, Erick Matailo, Harman Cabrera.
 
+## Licencia
+
+Sin especificar...
+
