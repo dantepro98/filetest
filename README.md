@@ -1,5 +1,5 @@
 <img align=""  src="https://lh3.googleusercontent.com/-PIPuy_IXpJk/YC7WlqLQodI/AAAAAAAAAyg/5X3VwrZnHycvNIJo36YMAtXXbSLC9f7awCLcBGAsYHQ/image.png"/>
-
+ 
 Covid-19 Detector 
 =================
 
