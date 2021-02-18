@@ -27,43 +27,16 @@ Rest Framework para la construcción del API Rest, para la base de datos se util
 
 ## Aplicación Web :bar_chart:
 
-a. Página Inicio 
+- Página Inicio 
 
 ![Imagen]( https://github.com/fionalayer/filetest/blob/main/web.gif "DEMO WEB")
 
-b. Página Dashboard 
+- Página Dashboard 
 
 ![Dashboard]( https://github.com/fionalayer/filetest/blob/main/dash.gif "DEMO WEB")
 
-## Colaboradores
+## Contribuidores
 
 Estos datos han sido recopilados, agregados y documentados por Christian Guaman, 
 Walter Bustamante, Pedro Morocho, Luis Maurizaca, John Rodas, Erick Matailo, Harman Cabrera.
 
-## Sigfox & Arduino :satellite:
-
-[Sigfox](https://www.sigfox.com/en "Sigfox Web"): es una solución de conectividad celular mundial para el Internet of 
-Things pensada para comunicaciones de baja velocidad que permite reducir los
-precios y el consumo de energía para los dispositivos conectados.
-
-[Arduino](https://www.ingmecafenix.com/electronica/arduino/): es una plataforma de prototipos electrónica de código abierto (open-source) basada en una sencilla placa con entradas y salidas, en un entorno de desarrollo que está basado en el lenguaje de programación Processing. Es un dispositivo que conecta el mundo físico con el mundo virtual, o el mundo analógico con el digital.
-
-Se envía el valor de temperatura a Sigfox cada vez que la placa detecta un 
-movimiento. Para visualizar los datos enviados, se verifica el monitor serial 
-del Arduino IDE. También puede verificar los mensajes a través del [backend de 
-Sigfox](https://www.aprendiendoarduino.com/2018/03/05/arduino-y-sigfox/ "Backend de Sigfox") seleccionando la ID del dispositivo de la lista de dispositivos.
-
-Mira mas informacion sobre la [guia de conexion](https://create.arduino.cc/projecthub/55019/connect-your-thinxtra-xkit-using-sigfox-c8b2ba)
-de project HUB.
-
-## PostgreSQL :cloud:
-
-Python tiene varios controladores de base de datos para PostgreSQL. Cubre las 
-actividades más comunes para interactuar con PostgreSQL en la aplicación Pycharm Profesional:
-
-* [Conexión al servidor de base de datos PostgreSQL](https://www.jetbrains.com/help/pycharm/connecting-to-a-database.html#connect-to-postgresql-database "conexión a la base de datos postgresql ") : muestra cómo conectarse al servidor de base de datos PostgreSQL desde PyCharm.
-* Actualización de datos en la tabla de PostgreSQL en Python.
-* Consulta de datos de las tablas de PostgreSQL.
-* Llamar a una función de PostgreSQL en Python.
-* Llamar a un procedimiento almacenado de PostgreSQL en Python.
-* Eliminación de datos de tablas de PostgreSQL en Python.
