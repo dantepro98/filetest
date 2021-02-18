@@ -38,7 +38,7 @@ Rest Framework para la construcción del API Rest, para la base de datos se util
 ## Contribuidores
 
 <a href="https://minka.gob.ec/Nogyboy" target="_blank"><img src="https://minka.gob.ec/uploads/-/system/user/avatar/1927/avatar.png?width=400"></a>
-<img src="https://opencollective.com/kivy/backers.svg?width=890"></a>
+<a href="https://opencollective.com/kivy#backers" target="_blank"><img src="https://opencollective.com/kivy/backers.svg?width=890"></a>
 
 ## Licencia
 
