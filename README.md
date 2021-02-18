@@ -1,7 +1,8 @@
 Cabina  de desinfección Covid-19
 ===============
 
-<img align="right" height="100" src="https://1.bp.blogspot.com/-CNRT-KeE5ZU/YBhWttxTgrI/AAAAAAAAAvQ/npX4KbEQdfYiu4kwWX09APOZad9YTTQpQCLcBGAsYHQ/w320-h118/covidlogo.png"/>
+<img align="right" height="100" src="https://www.blogger.com/blog/post/edit/preview/1875843554869976527/4284482251924557753"/>
+
 
 Una herramienta de inteligencia artificial para prevenir la propagación 
 del coronavirus (COVID-19) mediante módulo de temperatura Arduino. Una 
