@@ -5,17 +5,17 @@ Covid-19 Detector
 
 El presente proyecto aborda el diseño y desarrollo de un sistema ubicuo de cámaras duales 
 (térmica y fotográfica), de bajo costo construidas sobre una arquitectura ARM que, al ser 
-desplegadas en espaciospúblicos cerrados, detectarán la temperatura de las personas en ti
-empo real, notifica sobre posibles casos de COVID-19 a los responsables de mantener la se
-guridad en dichos lugares y registra información relacionada a la cantidad de personas pr
-esentes en el lugar. La arquitectura funcional del sistema requiere una red de comunicaci
-ón local, toda la información captada por el sistema es enviada a un servidorcentral a tr
-avés de la red Sigfox para su posterior análisis. 
+desplegadas en espaciospúblicos cerrados, detectarán la temperatura de las personas en 
+tiempo real, notifica sobre posibles casos de COVID-19 a los responsables de mantener la 
+seguridad en dichos lugares y registra información relacionada a la cantidad de personas 
+presentes en el lugar. La arquitectura funcional del sistema requiere una red de comunicación 
+local, toda la información captada por el sistema es enviada a un servidorcentral a través 
+de la red Sigfox para su posterior análisis. 
 
 ##### :pencil: Objetivo General:
 
-Determinar la eficiencia de un dispositivo ubicuo, embebido con sensores infrarrojo y foto
-gráfico y de bajo costo para detectar posibles casos COVID-19, sintomáticos en ambientes reales. 
+Determinar la eficiencia de un dispositivo ubicuo, embebido con sensores infrarrojo y 
+fotográfico y de bajo costo para detectar posibles casos COVID-19, sintomáticos en ambientes reales. 
 
 ##### :computer: Herramientas:
 
