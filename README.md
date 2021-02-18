@@ -1,7 +1,7 @@
 Covid-19 Detector 
 =================
 
-<img align="right" width="400" height="150" src="https://1.bp.blogspot.com/-cPh9PSBInTg/YC6X8WYMzcI/AAAAAAAAAwY/lcEx7VTsQ-sOd2ZmRRoRbAfPhtBDG2qvACLcBGAsYHQ/s803/imagen_2021-02-18_113806.png"/>
+<img align="right" width="" height="150" src="https://1.bp.blogspot.com/-RiU64XkZtwQ/YC6bs-YFQqI/AAAAAAAAAw0/kkHGqTQ77n4O0Ve-ElX6G0xyXlA_wSq8wCLcBGAsYHQ/s530/imagen_2021-02-18_115408.png"/>
 
 El presente proyecto aborda el diseño y desarrollo de un sistema ubicuo de cámaras duales 
 (térmica y fotográfica), de bajo costo construidas sobre una arquitectura ARM que, al ser 
