@@ -1,7 +1,7 @@
 Covid-19 Detector 
 =================
 
-<img align="right" height="150" src="https://1.bp.blogspot.com/-cPh9PSBInTg/YC6X8WYMzcI/AAAAAAAAAwY/lcEx7VTsQ-sOd2ZmRRoRbAfPhtBDG2qvACLcBGAsYHQ/s803/imagen_2021-02-18_113806.png"/>
+<img align="right" height="125" src="https://1.bp.blogspot.com/-cPh9PSBInTg/YC6X8WYMzcI/AAAAAAAAAwY/lcEx7VTsQ-sOd2ZmRRoRbAfPhtBDG2qvACLcBGAsYHQ/s803/imagen_2021-02-18_113806.png"/>
 
 El presente proyecto aborda el diseño y desarrollo de un sistema ubicuo de cámaras duales 
 (térmica y fotográfica), de bajo costo construidas sobre una arquitectura ARM que, al ser 
@@ -15,11 +15,30 @@ de la red Sigfox para su posterior análisis.
 ##### :pencil: Objetivo General:
 
 Determinar la eficiencia de un dispositivo ubicuo, embebido con sensores infrarrojo y 
-fotográfico y de bajo costo para detectar posibles casos COVID-19, sintomáticos en ambientes reales. 
+fotográfico y de bajo costo para detectar posibles casos COVID-19, sintomáticos en ambientes 
+reales. 
 
 ## Desarrollo:
 
-El proyecto se encuentra desarrollado como una aplicación web haciendo uso del framework [Django] (https://www.djangoproject.com/) con [Python](https://www.python.org/), junto a Rest Framework para la construcción del API Rest, para la base de datos se utiliza [PostgreSQL](https://www.postgresql.org/) y para el dispositivo Sigfox se utiliza C++. 
+El proyecto se encuentra desarrollado como una aplicación web haciendo uso del framework 
+[Django](https://www.djangoproject.com/) con [Python](https://www.python.org/), junto a 
+Rest Framework para la construcción del API Rest, para la base de datos se utiliza 
+[PostgreSQL](https://www.postgresql.org/) y para el dispositivo Sigfox se utiliza C++. 
+
+## Aplicación Web :bar_chart:
+
+a. Página Inicio 
+
+![Imagen]( https://github.com/fionalayer/filetest/blob/main/web.gif "DEMO WEB")
+
+b. Página Dashboard 
+
+![Dashboard]( https://github.com/fionalayer/filetest/blob/main/dash.gif "DEMO WEB")
+
+## Colaboradores
+
+Estos datos han sido recopilados, agregados y documentados por Christian Guaman, 
+Walter Bustamante, Pedro Morocho, Luis Maurizaca, John Rodas, Erick Matailo, Harman Cabrera.
 
 ## Sigfox & Arduino :satellite:
 
@@ -48,18 +67,3 @@ actividades más comunes para interactuar con PostgreSQL en la aplicación Pycha
 * Llamar a una función de PostgreSQL en Python.
 * Llamar a un procedimiento almacenado de PostgreSQL en Python.
 * Eliminación de datos de tablas de PostgreSQL en Python.
-
-## Aplicación Web VERSION 1.0 :bar_chart:
-
-Entrono grafico de darrollo web.
-
-![Imagen]( https://github.com/fionalayer/filetest/blob/main/web.gif "DEMO WEB")
-
-Panel de control de la version de dashborad.
-
-![Dashboard]( https://github.com/fionalayer/filetest/blob/main/dash.gif "DEMO WEB")
-
-## Colaboradores
-
-Estos datos han sido recopilados, agregados y documentados por Christian Guaman, 
-Walter Bustamante, Pedro Morocho, Luis Maurizaca, John Rodas, Erick Matailo, Harman Cabrera.
