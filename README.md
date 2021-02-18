@@ -3,6 +3,8 @@ Covid-19 Detector
 
 <img align="right" width="" height="200" src="https://1.bp.blogspot.com/-RiU64XkZtwQ/YC6bs-YFQqI/AAAAAAAAAw0/kkHGqTQ77n4O0Ve-ElX6G0xyXlA_wSq8wCLcBGAsYHQ/s530/imagen_2021-02-18_115408.png"/>
 
+<img align="right" width="" height="200" src="https://lh3.googleusercontent.com/-K3GMAcdCLwk/YC7SCS7VOTI/AAAAAAAAAx0/xBQhZQB-HksdKB1GLTfnb2A6nJz_qj1HQCLcBGAsYHQ/image.png"/>
+
 El presente proyecto aborda el diseño y desarrollo de un sistema ubicuo de cámaras duales 
 (térmica y fotográfica), de bajo costo construidas sobre una arquitectura ARM que, al ser 
 desplegadas en espaciospúblicos cerrados, detectarán la temperatura de las personas en 
