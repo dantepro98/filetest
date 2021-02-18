@@ -1,4 +1,4 @@
-<img align=""  src="https://lh3.googleusercontent.com/-PIPuy_IXpJk/YC7WlqLQodI/AAAAAAAAAyg/5X3VwrZnHycvNIJo36YMAtXXbSLC9f7awCLcBGAsYHQ/image.png"/>
+<img align=""  src="https://lh3.googleusercontent.com/-_hX_xicW19k/YC7XIQIU2NI/AAAAAAAAAys/vZ8K7g3NGMIkjMl14IZE5P_B80ndrBzuQCLcBGAsYHQ/image.png"/>
  
 Covid-19 Detector 
 =================
