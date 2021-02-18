@@ -37,8 +37,8 @@ Rest Framework para la construcción del API Rest, para la base de datos se util
 
 ## Contribuidores
 
-Estos datos han sido recopilados, agregados y documentados por Christian Guaman, 
-Walter Bustamante, Pedro Morocho, Luis Maurizaca, John Rodas, Erick Matailo, Harman Cabrera.
+<a href="https://minka.gob.ec/Nogyboy"><img src=""></a>
+
 
 ## Licencia
 
