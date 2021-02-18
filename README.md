@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/-9kMdhysCq-0/YC7SEMUmdFI/AAAAAAAAAx4/lp70QwwQpCwt-1hMo1yBxJDEjdjmRE1IwCLcBGAsYHQ/image.png"/>
+<img align = "rigth" src="https://lh3.googleusercontent.com/-9kMdhysCq-0/YC7SEMUmdFI/AAAAAAAAAx4/lp70QwwQpCwt-1hMo1yBxJDEjdjmRE1IwCLcBGAsYHQ/image.png"/>
 
 <img src="https://lh3.googleusercontent.com/-K3GMAcdCLwk/YC7SCS7VOTI/AAAAAAAAAx0/xBQhZQB-HksdKB1GLTfnb2A6nJz_qj1HQCLcBGAsYHQ/image.png"/>
 
