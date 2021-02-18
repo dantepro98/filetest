@@ -1,9 +1,9 @@
-<img align="right"  src="https://lh3.googleusercontent.com/-9kMdhysCq-0/YC7SEMUmdFI/AAAAAAAAAx4/lp70QwwQpCwt-1hMo1yBxJDEjdjmRE1IwCLcBGAsYHQ/image.png"/>
-
-<img align="right" src="https://lh3.googleusercontent.com/-K3GMAcdCLwk/YC7SCS7VOTI/AAAAAAAAAx0/xBQhZQB-HksdKB1GLTfnb2A6nJz_qj1HQCLcBGAsYHQ/image.png"/>
+<img align="right"  src="https://1.bp.blogspot.com/-0-rt2F6tOEs/YC7WIIkceFI/AAAAAAAAAyY/LSyCmdqVOGQZMUd746UKAInLkRbsj8IBQCLcBGAsYHQ/s773/imagen_2021-02-18_160324.png"/>
 
 Covid-19 Detector 
 =================
+
+<img align="right" width="" height="200" src="https://1.bp.blogspot.com/-RiU64XkZtwQ/YC6bs-YFQqI/AAAAAAAAAw0/kkHGqTQ77n4O0Ve-ElX6G0xyXlA_wSq8wCLcBGAsYHQ/s530/imagen_2021-02-18_115408.png"/>
 
 El presente proyecto aborda el diseño y desarrollo de un sistema ubicuo de cámaras duales 
 (térmica y fotográfica), de bajo costo construidas sobre una arquitectura ARM que, al ser 
@@ -13,8 +13,6 @@ seguridad en dichos lugares y registra información relacionada a la cantidad de
 presentes en el lugar. La arquitectura funcional del sistema requiere una red de comunicación 
 local, toda la información captada por el sistema es enviada a un servidorcentral a través 
 de la red Sigfox para su posterior análisis. 
-
-<img align="right" width="" height="200" src="https://1.bp.blogspot.com/-RiU64XkZtwQ/YC6bs-YFQqI/AAAAAAAAAw0/kkHGqTQ77n4O0Ve-ElX6G0xyXlA_wSq8wCLcBGAsYHQ/s530/imagen_2021-02-18_115408.png"/>
 
 ##### :pencil: Objetivo General:
 
