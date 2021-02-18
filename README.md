@@ -1,9 +1,9 @@
-Covid-19 Detector 
-=================
-
 <img src="https://lh3.googleusercontent.com/-9kMdhysCq-0/YC7SEMUmdFI/AAAAAAAAAx4/lp70QwwQpCwt-1hMo1yBxJDEjdjmRE1IwCLcBGAsYHQ/image.png"/>
 
 <img src="https://lh3.googleusercontent.com/-K3GMAcdCLwk/YC7SCS7VOTI/AAAAAAAAAx0/xBQhZQB-HksdKB1GLTfnb2A6nJz_qj1HQCLcBGAsYHQ/image.png"/>
+
+Covid-19 Detector 
+=================
 
 <img align="right" width="" height="200" src="https://1.bp.blogspot.com/-RiU64XkZtwQ/YC6bs-YFQqI/AAAAAAAAAw0/kkHGqTQ77n4O0Ve-ElX6G0xyXlA_wSq8wCLcBGAsYHQ/s530/imagen_2021-02-18_115408.png"/>
 
