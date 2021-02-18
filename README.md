@@ -1,6 +1,6 @@
-<img align="center"  src="https://lh3.googleusercontent.com/-9kMdhysCq-0/YC7SEMUmdFI/AAAAAAAAAx4/lp70QwwQpCwt-1hMo1yBxJDEjdjmRE1IwCLcBGAsYHQ/image.png"/>
+<img align="right"  src="https://lh3.googleusercontent.com/-9kMdhysCq-0/YC7SEMUmdFI/AAAAAAAAAx4/lp70QwwQpCwt-1hMo1yBxJDEjdjmRE1IwCLcBGAsYHQ/image.png"/>
 
-<img align="center" src="https://lh3.googleusercontent.com/-K3GMAcdCLwk/YC7SCS7VOTI/AAAAAAAAAx0/xBQhZQB-HksdKB1GLTfnb2A6nJz_qj1HQCLcBGAsYHQ/image.png"/>
+<img align="right" src="https://lh3.googleusercontent.com/-K3GMAcdCLwk/YC7SCS7VOTI/AAAAAAAAAx0/xBQhZQB-HksdKB1GLTfnb2A6nJz_qj1HQCLcBGAsYHQ/image.png"/>
 
 Covid-19 Detector 
 =================
@@ -14,7 +14,7 @@ presentes en el lugar. La arquitectura funcional del sistema requiere una red de
 local, toda la información captada por el sistema es enviada a un servidorcentral a través 
 de la red Sigfox para su posterior análisis. 
 
-<img align="center" width="" height="200" src="https://1.bp.blogspot.com/-RiU64XkZtwQ/YC6bs-YFQqI/AAAAAAAAAw0/kkHGqTQ77n4O0Ve-ElX6G0xyXlA_wSq8wCLcBGAsYHQ/s530/imagen_2021-02-18_115408.png"/>
+<img align="right" width="" height="200" src="https://1.bp.blogspot.com/-RiU64XkZtwQ/YC6bs-YFQqI/AAAAAAAAAw0/kkHGqTQ77n4O0Ve-ElX6G0xyXlA_wSq8wCLcBGAsYHQ/s530/imagen_2021-02-18_115408.png"/>
 
 ##### :pencil: Objetivo General:
 
