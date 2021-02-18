@@ -1,20 +1,21 @@
-Cabina  de desinfección Covid-19
-===============
+Covid-19 Detector 
+=================
 
 <img align="right" height="100" src="https://1.bp.blogspot.com/-cPh9PSBInTg/YC6X8WYMzcI/AAAAAAAAAwY/lcEx7VTsQ-sOd2ZmRRoRbAfPhtBDG2qvACLcBGAsYHQ/s803/imagen_2021-02-18_113806.png"/>
 
+El presente proyecto aborda el diseño y desarrollo de un sistema ubicuo de cámaras duales 
+(térmica y fotográfica), de bajo costo construidas sobre una arquitectura ARM que, al ser 
+desplegadas en espaciospúblicos cerrados, detectarán la temperatura de las personas en ti
+empo real, notifica sobre posibles casos de COVID-19 a los responsables de mantener la se
+guridad en dichos lugares y registra información relacionada a la cantidad de personas pr
+esentes en el lugar. La arquitectura funcional del sistema requiere una red de comunicaci
+ón local, toda la información captada por el sistema es enviada a un servidorcentral a tr
+avés de la red Sigfox para su posterior análisis. 
 
-Una herramienta de inteligencia artificial para prevenir la propagación 
-del coronavirus (COVID-19) mediante módulo de temperatura Arduino. Una 
-herramienta de inteligencia artificial analizadora de información para 
-mostrar los datos en graficas. Una aplicación de IoT que toma y envía 
-lecturas de temperatura a través de Sigfox, siempre que se detecta movimiento.
+##### :pencil: Objetivo General:
 
-##### :pencil: Requisito previo:
-
-* Python básico
-* Conocimientos básicos de creación de entornos virtuales python y Django 
-REST framework.
+Determinar la eficiencia de un dispositivo ubicuo, embebido con sensores infrarrojo y foto
+gráfico y de bajo costo para detectar posibles casos COVID-19, sintomáticos en ambientes reales. 
 
 ##### :computer: Herramientas:
 
