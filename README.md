@@ -1,7 +1,7 @@
 Cabina  de desinfección Covid-19
 ===============
 
-<img align="right" height="100" src="https://www.blogger.com/blog/post/edit/preview/1875843554869976527/4284482251924557753"/>
+<img align="right" height="100" src="https://1.bp.blogspot.com/-cPh9PSBInTg/YC6X8WYMzcI/AAAAAAAAAwY/lcEx7VTsQ-sOd2ZmRRoRbAfPhtBDG2qvACLcBGAsYHQ/s803/imagen_2021-02-18_113806.png"/>
 
 
 Una herramienta de inteligencia artificial para prevenir la propagación 
