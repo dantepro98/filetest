@@ -17,18 +17,9 @@ de la red Sigfox para su posterior análisis.
 Determinar la eficiencia de un dispositivo ubicuo, embebido con sensores infrarrojo y 
 fotográfico y de bajo costo para detectar posibles casos COVID-19, sintomáticos en ambientes reales. 
 
-##### :computer: Herramientas:
+## Desarrollo:
 
-* Arduino IDE, VS Code, Pycharm  Profesional, Postgress.
-* Paquetes de Python como se indica en `requirements.txt`
-
-## Pycharm Profesional :snake:
-
-En este proyecto se utilizo PyCharm ya que ofrece una gran compatibilidad con marcos de trabajo de desarrollo web moderno 
-con [Django](https://www.jetbrains.com/help/pycharm/django-support7.html#django-support "soporte de Django en PyCharm"), 
-proporciona una finalización del código inteligente, inspecciones del código, indicación 
-de errores sobre la marcha y arreglos rápidos, así como refactorización de código automática
-y completas funcionalidades de navegación.
+El proyecto se encuentra desarrollado como una aplicación web haciendo uso del framework [Django] (https://www.djangoproject.com/) con [Python](https://www.python.org/), junto a Rest Framework para la construcción del API Rest, para la base de datos se utiliza [PostgreSQL](https://www.postgresql.org/) y para el dispositivo Sigfox se utiliza C++. 
 
 ## Sigfox & Arduino :satellite:
 
