@@ -29,11 +29,11 @@ Rest Framework para la construcción del API Rest, para la base de datos se util
 
 - Página Inicio 
 
-![Imagen]( align="center" width="200" height="200" https://github.com/fionalayer/filetest/blob/main/web.gif "DEMO WEB")
+![Imagen](https://github.com/fionalayer/filetest/blob/main/web.gif "DEMO WEB")
 
 - Página Dashboard 
 
-![Dashboard]( https://github.com/fionalayer/filetest/blob/main/dash.gif "DEMO WEB")
+![Dashboard](https://github.com/fionalayer/filetest/blob/main/dash.gif "DEMO WEB")
 
 ## Contribuidores
 
